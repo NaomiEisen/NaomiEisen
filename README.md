@@ -16,10 +16,10 @@ I'm a Sophomore CS student at The Open University with a strong passion for prob
 - **C**: Strong understanding and practical application through laboratory work.
 - **Web Development (CSS)**: Skilled in styling web pages to create visually appealing layouts.
 
-----------------------------------------------------------------------------------------
-| Feel free to explore my repositories and reach out for collaborations or discussions |
-| I'm always excited to connect and share ideas!.                                      |
-----------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------
+Feel free to explore my repositories and reach out for collaborations or discussions.
+I'm always excited to connect and share ideas!. ❤️
+
 <!--
 **NaomiEisen/NaomiEisen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

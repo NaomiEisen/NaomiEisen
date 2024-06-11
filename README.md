@@ -1,4 +1,4 @@
-# Welcome to My GitHub Profile! 👋
+# Welcome to Naomi's GitHub Profile! 🌷
 Hi there! 👋 I'm Naomi Eisenstark, a passionate Computer Science student at The Open University. I'm excited to share my journey, projects, and skills with you. 
 
 ## About Me 💅 

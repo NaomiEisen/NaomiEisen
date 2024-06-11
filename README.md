@@ -1,5 +1,6 @@
 # Welcome to Naomi's GitHub Profile! 🌷
-Hi there! 👋 I'm Naomi Eisenstark, a passionate Computer Science student at The Open University. I'm excited to share my journey, projects, and skills with you. 
+Hi there! 👋 I'm Naomi Eisenstark, a passionate Computer Science student at The Open University. 
+I'm excited to share my journey, projects, and skills with you. :)
 
 ## About Me 💅 
 I'm a sophomore currently diving deep into the world of computer science. My interests lie in problem-solving and developing innovative software solutions. I thrive in collaborative environments and love taking on new challenges to grow my skills.

@@ -16,7 +16,7 @@ I'm a sophomore currently diving deep into the world of computer science. My int
 - **C**: Strong understanding and practical application through laboratory work.
 - **Web Development (CSS)**: Skilled in styling web pages to create visually appealing layouts.
 
-## Let's Connect!
+## Let's Connect! 💌
 Feel free to explore my repositories and reach out for collaborations or discussions. I'm always excited to connect and share ideas! ❤️
 
 [LinkedIn](https://www.linkedin.com/in/NaomiEisenstark) | [GitHub](https://github.com/NaomiEisen)

@@ -6,9 +6,9 @@ I'm excited to share my journey, projects, and skills with you. :)
 I'm a sophomore currently diving deep into the world of computer science. My interests lie in problem-solving and developing innovative software solutions. I thrive in collaborative environments and love taking on new challenges to grow my skills.
 
 ## 🌱 Education  
-- **The Open University**
-  I'm pursuing a Bachelor of Science in Computer Science at The Open University, proud recipient of the President's Honor in 2023! :)
-  I have gained a solid foundation in computer science from my university studies and am always eager to learn continuously expanding my knowledge in the field.
+**The Open University**:
+    I'm pursuing a Bachelor of Science in Computer Science at The Open University in Israel, proud recipient of the President's Honor in 2023! :)
+    I have gained a solid foundation in computer science from my university studies and am always eager to learn continuously expanding my knowledge in the field.
 
 ## ✨ Skills 
 - **Java**: Proficient in Java, experienced in advanced concepts including data structures and multi-thread programming.

@@ -16,9 +16,15 @@ I'm a sophomore currently diving deep into the world of computer science. My int
 - **C**: Strong understanding and practical application through laboratory work.
 - **Web Development (CSS)**: Skilled in styling web pages to create visually appealing layouts.
 
---------------------------------------------------------------------------------------
-Feel free to explore my repositories and reach out for collaborations or discussions.
-I'm always excited to connect and share ideas!. ❤️
+## Let's Connect!
+Feel free to explore my repositories and reach out for collaborations or discussions. I'm always excited to connect and share ideas! ❤️
+
+[LinkedIn](https://www.linkedin.com/in/NaomiEisenstark) | [GitHub](https://github.com/NaomiEisen)
+
+---
+
+Thanks for visiting my profile! Have a great day!
+
 
 <!--
 **NaomiEisen/NaomiEisen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

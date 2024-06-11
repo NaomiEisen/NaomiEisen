@@ -1,14 +1,13 @@
-# Hello there, I'm Naomi Eisenstark 👋
+# Welcome to My GitHub Profile! 👋
+Hi there! 👋 I'm Naomi Eisenstark, a passionate Computer Science student at The Open University. I'm excited to share my journey, projects, and skills with you. 
 
-## >> About Me 💅
-I'm a Sophomore CS student at The Open University with a strong passion for problem-solving and creating innovative software solutions. I'm eager to learn and continuously expanding my knowledge in the field of computer science. I thrive in collaborative environments and am always excited to take on new challenges and opportunities to grow.
+## ------------------------ About Me 💅 ------------------------
+I'm a sophomore currently diving deep into the world of computer science. My interests lie in problem-solving and developing innovative software solutions. I thrive in collaborative environments and love taking on new challenges to grow my skills.
 
-## >> Education 🌱
+## ------------------------ Education 🌱 ------------------------
 - **The Open University**
-  - Bachelor of Science in Computer Science
-  - Proud recipient of the President's Honor in 2023
-  - Maintaining a first-year GPA of 96
-  - Relevant Coursework: Advanced Java Programming, Data Structures and Algorithms, C laboratory
+  I'm pursuing a Bachelor of Science in Computer Science at The Open University, proud recipient of the President's Honor in 2023! :)
+  I have gained a solid foundation in computer science from my university studies and am always eager to learn continuously expanding my knowledge in the field.
 
 ## >> Skills ✨
 - **Java**: Proficient in Java, experienced in advanced concepts including data structures and multi-thread programming.

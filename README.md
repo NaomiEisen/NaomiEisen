@@ -7,8 +7,8 @@ I'm a sophomore currently diving deep into the world of computer science. My int
 
 ## 🌱 Education  
 **The Open University**:
-    I'm pursuing a Bachelor of Science in Computer Science at The Open University in Israel. I am proud to be a recipient of the President's Honor in 2023! :) I have gained a solid foundation in computer science
-    from my university studies and am always eager to learn and continuously expand my knowledge in the field.
+    I'm pursuing a Bachelor of Science in Computer Science at The Open University in Israel. I have gained a solid foundation in computer science
+    from my university studies and am always eager to learn and continuously expand my knowledge in the field! :)
 
 ## ✨ Skills 
 - **Java**: Proficient in Java, experienced in advanced concepts including data structures and multi-thread programming.

@@ -1,16 +1,11 @@
 # Welcome to Naomi's GitHub Profile! 
-Hi there! 👋 I'm Naomi, a passionate Computer Science student at The Open University. 
-I'm excited to share my journey and projects with you. :)
+Hi there! 👋 I'm Naomi, a Computer Science student at The Open University.
 
 ## 💌 Let's Connect! 
 Feel free to explore my repositories and reach out for collaborations or discussions. I'm always excited to connect and share ideas! ❤️
-
 [LinkedIn](https://www.linkedin.com/in/NaomiEisenstark) | [GitHub](https://github.com/NaomiEisen)
 
 ---
-
-Thanks for visiting my profile! Have a great day!
-
 
 <!--
 **NaomiEisen/NaomiEisen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
